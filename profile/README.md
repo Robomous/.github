@@ -22,16 +22,16 @@
 
 ## About Robomous
 
-Robomous is a consulting and educational initiative focused on **computer vision**, **machine learning**, and **intelligent software systems** for real-world applications. Our work is centered on practical solutions that help organizations improve efficiency, automate processes, and make better decisions with software and AI. :contentReference[oaicite:1]{index=1}
+Robomous is a consulting and educational initiative focused on **computer vision**, **machine learning**, and **intelligent software systems** for real-world applications. Our work is centered on practical solutions that help organizations improve efficiency, automate processes, and make better decisions with software and AI.
 
 We work across areas such as:
 
 - **Custom software** tailored from architecture to deployment
 - **AI integration** for automation and smarter operational workflows
 - **Computer vision** for image and video analysis in real-world environments
-- **Scalable cloud solutions** for production-ready systems and infrastructure :contentReference[oaicite:2]{index=2}
+- **Scalable cloud solutions** for production-ready systems and infrastructure
 
-Beyond consulting, Robomous also shares open resources, technical content, and code intended to support engineers, developers, researchers, and teams building with modern AI and vision technologies. :contentReference[oaicite:3]{index=3}
+Beyond consulting, Robomous also shares open resources, technical content, and code intended to support engineers, developers, researchers, and teams building with modern AI and vision technologies.
 
 ---
 
@@ -42,13 +42,13 @@ This GitHub organization is where we publish selected open-source projects, tech
 ### Featured repositories
 
 #### [`opencv-react`](https://github.com/Robomous/opencv-react)
-A React wrapper for the official OpenCV.js library that brings computer vision into React applications through WebAssembly. It includes primitives such as a `useOpenCV` hook and an `OpenCVCanvas` component, with lazy loading, SSR safety, and singleton script loading. :contentReference[oaicite:4]{index=4}
+A React wrapper for the official OpenCV.js library that brings computer vision into React applications through WebAssembly. It includes primitives such as a `useOpenCV` hook and an `OpenCVCanvas` component, with lazy loading, SSR safety, and singleton script loading. 
 
 #### [`unofficial-opencv-docs`](https://github.com/Robomous/unofficial-opencv-docs)
-An open-source documentation project focused on OpenCV for Python, created by Robomous for the community. It includes bilingual content structure for English and Spanish and is organized as a documentation site. :contentReference[oaicite:5]{index=5}
+An open-source documentation project focused on OpenCV for Python, created by Robomous for the community. It includes bilingual content structure for English and Spanish and is organized as a documentation site.
 
 #### [`notebooks`](https://github.com/Robomous/notebooks)
-A repository of notebooks used to support Robomous educational content. These materials are shared for public learning and reuse, and are tied to the technical content published by Robomous. :contentReference[oaicite:6]{index=6}
+A repository of notebooks used to support Robomous educational content. These materials are shared for public learning and reuse, and are tied to the technical content published by Robomous.
 
 ---
 
@@ -63,7 +63,7 @@ At Robomous, we are especially interested in building and sharing work around:
 - Robotics and real-world automation
 - Technical education for developers and engineers
 
-Our goal is to help bridge the gap between AI concepts and production-grade systems that create measurable value. This includes both consulting work and openly shared technical resources. :contentReference[oaicite:7]{index=7}
+Our goal is to help bridge the gap between AI concepts and production-grade systems that create measurable value. This includes both consulting work and openly shared technical resources.
 
 ---
 
@@ -74,7 +74,7 @@ You can explore more of our work and writing here:
 - **Website:** [robomous.ai](https://robomous.ai)
 - **Blog:** [robomous.ai/blog](https://robomous.ai/blog)
 
-The blog covers practical topics in AI, computer vision, robotics, and infrastructure, including technical articles such as Physical AI and GPU/AWS setup guides. :contentReference[oaicite:8]{index=8}
+The blog covers practical topics in AI, computer vision, robotics, and infrastructure, including technical articles such as Physical AI and GPU/AWS setup guides.
 
 ---
 
