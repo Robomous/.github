@@ -1,8 +1,6 @@
-<div align="center">
+<p align="center">
   <img src="https://cdn.robomous.ai/public-images/robomous-banner.svg" alt="Robomous.ai" width="300" />
-</div>
-
----
+</p>
 
 <p align="center">
   Computer Vision, Machine Learning, and Intelligent Systems for Real-World Challenges.
